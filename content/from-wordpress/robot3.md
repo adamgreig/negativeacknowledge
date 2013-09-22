@@ -8,11 +8,11 @@ I found an old RC car - the kind of thing you get for £5 from Argos -
 lying in my cupboard, mostly untouched since I got it as a birthday
 present. Still, it has wheels and motors, what more could you ask for?
 
-[flickr pid="3921235172" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/3921235172/" title="Robot3"><img src="http://farm3.staticflickr.com/2652/3921235172_3326989fcb_z.jpg" alt="Robot3" /></a>
 
-[flickr pid="3920452383" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/3920452383/" title="Robot3"><img src="http://farm3.staticflickr.com/2462/3920452383_112d28ddd1_z.jpg" alt="Robot3" /></a>
 
-[flickr pid="3920461549" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/3920461549/" title="Robot3"><img src="http://farm3.staticflickr.com/2485/3920461549_32a8ff6ed6_z.jpg" alt="Robot3" /></a>
 
 I proceeded to rip out all its electronics and battery contacts and
 cover etc, leaving just the underchasis and two motors. I then put my
@@ -21,9 +21,9 @@ motor driver board (two h-bridges), with all the wires running through
 the old contact holes. An [STM32 dev board][] went on top and connects
 to a Sharp IR rangefinder and xbee radio.
 
-[flickr pid="3920454819" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/3920454819/" title="Robot3"><img src="http://farm3.staticflickr.com/2526/3920454819_320a67983d_z.jpg" alt="Robot3" /></a>
 
-[flickr pid="3921243428" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/3921243428/" title="Robot3"><img src="http://farm3.staticflickr.com/2608/3921243428_56a2e574c7_z.jpg" alt="Robot3" /></a>
 
 All I had it do to start with was drive forwards, then when the ADC
 detected the voltage from the Sharp sensor went over the limit that

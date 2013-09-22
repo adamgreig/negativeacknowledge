@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Arduino, Electronics, high altitude ballooning
 Slug: ferret-high-altitude-balloon-tracker
 
-[flickr pid="4414040518" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/4414040518/" title="Ferret 1 insides"><img src="http://farm3.staticflickr.com/2725/4414040518_16f001f3ae_z.jpg" alt="Ferret 1 insides" /></a>
 
 I'm part of [CU Spaceflight][], and since we have clearance to launch
 high altitude balloons from a few nearby locations we often do launches
@@ -17,7 +17,7 @@ the GPS coordinates back. [Jon Sowman][] and I decided to whip up a
 small radio tracker based on some work that had previously been done by
 Iain Waugh at CUSF. Six hours later, we'd completed Ferret 1!
 
-[flickr pid="4414039650" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/4414039650/" title="Ferret 1 before boxing"><img src="http://farm3.staticflickr.com/2749/4414039650_e30c16dcf1_z.jpg" alt="Ferret 1 before boxing" /></a>
 
 It consists of an Arduino with some stripboard stuck on top. The strips
 on the stripboard were cut down the middle with a dremel, then we
@@ -43,7 +43,7 @@ lab:
 This was successful, so we put the whole thing in a box, taped it down
 and were ready to go!
 
-[flickr pid="4413279333" size="medium"]
+<a href="http://www.flickr.com/photos/randomskk/4413279333/" title="Ferret 1 almost ready to fly"><img src="http://farm5.staticflickr.com/4011/4413279333_40b8397eb8_z.jpg" alt="Ferret 1 almost ready to fly" /></a>
 
 We duct taped it to the main payload and launched it the next morning.
 
