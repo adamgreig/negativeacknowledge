@@ -1,7 +1,7 @@
 Title: Mother's Day '08: A Light-Up Box
 Date: 2008-03-02 17:52
-Author: admin
-Category: AVR, Electronics
+Author: Adam Greig
+Tags: AVR, Electronics
 Slug: mothers-day-08-a-light-up-box
 
 [![Making PCBs at home, Attempt 2: Done!][]][]

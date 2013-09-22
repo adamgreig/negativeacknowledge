@@ -1,7 +1,7 @@
 Title: LED Fireflies: Prototype
 Date: 2008-04-04 20:28
-Author: admin
-Category: Electronics, HomeMadePCBs
+Author: Adam Greig
+Tags: Electronics, HomeMadePCBs
 Slug: led-fireflies-prototype
 
 I've got the second prototype made for my LED Firefly idea. This one

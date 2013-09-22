@@ -1,7 +1,7 @@
 Title: Nixie Tubes Arrived!
 Date: 2008-07-02 16:53
-Author: admin
-Category: Electronics
+Author: Adam Greig
+Tags: Electronics
 Slug: nixie-tubes-arrived
 
 [![Nixie Tubes][]][]

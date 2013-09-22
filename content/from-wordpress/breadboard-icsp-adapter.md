@@ -1,7 +1,7 @@
 Title: Breadboard ICSP Adapter
 Date: 2008-04-04 20:31
-Author: admin
-Category: Uncategorized
+Author: Adam Greig
+Tags: Uncategorized
 Slug: breadboard-icsp-adapter
 
 At the same time I etched the LED Firefly prototypes, I did some

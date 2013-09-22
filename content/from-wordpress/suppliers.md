@@ -1,6 +1,6 @@
 Title: Suppliers
 Date: 2008-02-24 02:05
-Author: admin
+Author: Adam Greig
 Slug: suppliers
 
 First, a caveat: this page is mainly going to focused on UK suppliers,

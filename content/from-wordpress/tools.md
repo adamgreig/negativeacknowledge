@@ -1,6 +1,6 @@
 Title: Tools
 Date: 2008-02-24 02:23
-Author: admin
+Author: Adam Greig
 Slug: tools
 
 I find it can be useful to look over other people's tool kits and see

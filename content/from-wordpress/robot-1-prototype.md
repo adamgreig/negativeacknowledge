@@ -1,7 +1,7 @@
 Title: Robot 1 Prototype
 Date: 2008-07-02 11:57
-Author: admin
-Category: Arduino, Electronics, Robotics
+Author: Adam Greig
+Tags: Arduino, Electronics, Robotics
 Slug: robot-1-prototype
 
 [][]

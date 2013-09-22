@@ -1,7 +1,7 @@
 Title: Ferret: High Altitude Balloon Tracker
 Date: 2010-03-17 21:38
-Author: admin
-Category: Arduino, Electronics, high altitude ballooning
+Author: Adam Greig
+Tags: Arduino, Electronics, high altitude ballooning
 Slug: ferret-high-altitude-balloon-tracker
 
 [flickr pid="4414040518" size="medium"]

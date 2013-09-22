@@ -1,7 +1,7 @@
 Title: Hello, World!
 Date: 2008-02-22 22:04
-Author: admin
-Category: Meta
+Author: Adam Greig
+Tags: Meta
 Slug: hello-world
 
 [![Hello, World! [Roadside Flower]][]][]

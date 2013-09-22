@@ -1,7 +1,7 @@
 Title: Macro Goodness
 Date: 2009-01-25 18:05
-Author: admin
-Category: Electronics, Photography
+Author: Adam Greig
+Tags: Electronics, Photography
 Slug: macro-goodness
 
 Macro lenses are great fun for electronics:

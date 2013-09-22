@@ -1,7 +1,7 @@
 Title: Robot3
 Date: 2009-09-14 23:06
-Author: admin
-Category: ARM, Electronics, Robotics
+Author: Adam Greig
+Tags: ARM, Electronics, Robotics
 Slug: robot3
 
 I found an old RC car - the kind of thing you get for £5 from Argos -

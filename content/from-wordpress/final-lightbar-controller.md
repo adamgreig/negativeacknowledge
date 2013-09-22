@@ -1,7 +1,7 @@
 Title: Final Lightbar Controller
 Date: 2008-06-11 16:52
-Author: admin
-Category: AVR, Electronics, HomeMadePCBs, Robotics
+Author: Adam Greig
+Tags: AVR, Electronics, HomeMadePCBs, Robotics
 Slug: final-lightbar-controller
 
 I've finished the lightbar controller!

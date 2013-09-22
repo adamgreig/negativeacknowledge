@@ -1,7 +1,7 @@
 Title: NIXIE Clock Case!
 Date: 2010-01-10 01:09
-Author: admin
-Category: AVR, Electronics
+Author: Adam Greig
+Tags: AVR, Electronics
 Slug: nixie-clock-case
 
 Hurrah! The laser cut acrylic for my [NIXIE tube clock case][]arrived

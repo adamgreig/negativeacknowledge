@@ -1,7 +1,7 @@
 Title: New Parts Bins!
 Date: 2008-05-11 21:02
-Author: admin
-Category: Uncategorized
+Author: Adam Greig
+Tags: Uncategorized
 Slug: new-parts-bins
 
 [![IMG\_7925.JPG][]][]

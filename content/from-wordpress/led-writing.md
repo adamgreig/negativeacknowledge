@@ -1,7 +1,7 @@
 Title: LED Writing
 Date: 2008-04-04 20:34
-Author: admin
-Category: Uncategorized
+Author: Adam Greig
+Tags: Uncategorized
 Slug: led-writing
 
 It's hardly original, but I thought I'd have a go at drawing stuff in

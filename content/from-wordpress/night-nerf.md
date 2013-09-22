@@ -1,7 +1,7 @@
 Title: Night Nerf
 Date: 2008-07-02 12:00
-Author: admin
-Category: Electronics, Uncategorized
+Author: Adam Greig
+Tags: Electronics, Uncategorized
 Slug: night-nerf
 
 I'm off to Mongolia for a month in only five days, and one of the toys

@@ -1,7 +1,7 @@
 Title: Dremel!
 Date: 2008-02-26 20:14
-Author: admin
-Category: Electronics
+Author: Adam Greig
+Tags: Electronics
 Slug: dremel
 
 My first dremel arrived today (the 300), along with a drill press stand

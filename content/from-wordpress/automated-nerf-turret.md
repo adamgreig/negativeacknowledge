@@ -1,7 +1,7 @@
 Title: Automated NERF turret
 Date: 2010-06-18 16:35
-Author: admin
-Category: Arduino
+Author: Adam Greig
+Tags: Arduino
 Slug: automated-nerf-turret
 
 [![Automatic NERF EBF-25 Turret][]][]

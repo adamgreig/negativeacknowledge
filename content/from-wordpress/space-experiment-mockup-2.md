@@ -1,7 +1,7 @@
 Title: Space Experiment Mockup #2
 Date: 2008-05-11 14:51
-Author: admin
-Category: Arduino, Electronics, HomeMadePCBs
+Author: Adam Greig
+Tags: Arduino, Electronics, HomeMadePCBs
 Slug: space-experiment-mockup-2
 
 [![Space Experiment Mockup][]][]

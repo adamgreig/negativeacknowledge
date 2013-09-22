@@ -1,7 +1,7 @@
 Title: 20 LEDs, 5 pins: Charlieplexing!
 Date: 2008-05-08 21:53
-Author: admin
-Category: AVR, Electronics
+Author: Adam Greig
+Tags: AVR, Electronics
 Slug: 20-leds-5-pins-charlieplexing
 
 [![almost works!][]][]

@@ -1,7 +1,7 @@
 Title: Nixie Clock
 Date: 2009-09-14 21:32
-Author: admin
-Category: AVR, Electronics
+Author: Adam Greig
+Tags: AVR, Electronics
 Slug: nixie-clock
 
 While I don't consider the clock entirely finished, I think it's been

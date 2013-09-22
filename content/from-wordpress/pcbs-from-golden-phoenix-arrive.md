@@ -1,7 +1,7 @@
 Title: PCBs from Golden Phoenix arrive
 Date: 2008-10-08 18:20
-Author: admin
-Category: Electronics
+Author: Adam Greig
+Tags: Electronics
 Slug: pcbs-from-golden-phoenix-arrive
 
 [![PCBs from Golden Phoenix][]][]

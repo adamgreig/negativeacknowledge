@@ -1,7 +1,7 @@
 Title: STM32 Prototyping Boards
 Date: 2009-09-14 22:19
-Author: admin
-Category: ARM, Electronics
+Author: Adam Greig
+Tags: ARM, Electronics
 Slug: stm32-prototyping-boards
 
 I used an STM32 for the first time in [Robot2][], and soon discovered

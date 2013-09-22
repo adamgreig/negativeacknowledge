@@ -1,7 +1,7 @@
 Title: Space Experiment Proposal Mockup
 Date: 2008-05-08 22:39
-Author: admin
-Category: Arduino, Electronics
+Author: Adam Greig
+Tags: Arduino, Electronics
 Slug: space-experiment-proposal-mockup
 
 [![Detecting Reflected Light][]][]

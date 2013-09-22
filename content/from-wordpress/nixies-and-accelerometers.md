@@ -1,7 +1,7 @@
 Title: NIXIEs and Accelerometers
 Date: 2009-02-16 02:50
-Author: admin
-Category: Arduino, Electronics
+Author: Adam Greig
+Tags: Arduino, Electronics
 Slug: nixies-and-accelerometers
 
 [![Four Nixies!][]][]

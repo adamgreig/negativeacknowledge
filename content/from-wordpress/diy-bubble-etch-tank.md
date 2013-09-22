@@ -1,7 +1,7 @@
 Title: DIY Bubble Etch Tank
 Date: 2008-04-04 20:14
-Author: admin
-Category: Electronics, HomeMadePCBs
+Author: Adam Greig
+Tags: Electronics, HomeMadePCBs
 Slug: diy-bubble-etch-tank
 
 I've been planning to improve on my current etching solution (namely,

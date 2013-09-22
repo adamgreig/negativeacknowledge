@@ -1,7 +1,7 @@
 Title: LED Lightstrip
 Date: 2008-05-08 21:59
-Author: admin
-Category: Electronics
+Author: Adam Greig
+Tags: Electronics
 Slug: led-lightstrip
 
 I still had 80 LEDs left after my [attempt at charlieplexing][], so I

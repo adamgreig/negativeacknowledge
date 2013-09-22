@@ -1,7 +1,7 @@
 Title: Robot2 - an ARM based colour tracking robot
 Date: 2009-05-10 12:33
-Author: admin
-Category: Electronics, Robotics
+Author: Adam Greig
+Tags: Electronics, Robotics
 Slug: robot2-an-arm-based-colour-tracking-robot
 
 [![Robot 2][]][]

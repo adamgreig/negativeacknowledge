@@ -1,7 +1,7 @@
 Title: Nixie Tubes: Lit up at last!
 Date: 2008-09-24 22:30
-Author: admin
-Category: Electronics, HomeMadePCBs
+Author: Adam Greig
+Tags: Electronics, HomeMadePCBs
 Slug: nixie-tubes-lit-up-at-last
 
 [![Nixies At Last][]][]

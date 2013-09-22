@@ -1,7 +1,7 @@
 Title: 2010/11: Stuff That Happened
 Date: 2011-07-06 20:00
-Author: admin
-Category: Electronics
+Author: Adam Greig
+Tags: Electronics
 Slug: 201011-stuff-that-happened
 
 So it's been over a year since I posted about that NERF turret! I've not

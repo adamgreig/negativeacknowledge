@@ -1,7 +1,7 @@
 Title: Starting Robot4 aka Quad1: Prototyping Sensors
 Date: 2009-09-26 16:56
-Author: admin
-Category: Electronics, Robot4, Robotics
+Author: Adam Greig
+Tags: Electronics, Robot4, Robotics
 Slug: starting-robot4-aka-quad1-prototyping-sensors
 
 As briefly mentioned in my last post, my next project is an autonomous

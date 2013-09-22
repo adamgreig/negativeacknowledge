@@ -1,7 +1,7 @@
 Title: LED Fireflies in a Jar
 Date: 2008-10-18 23:01
-Author: admin
-Category: AVR, Electronics, HomeMadePCBs
+Author: Adam Greig
+Tags: AVR, Electronics, HomeMadePCBs
 Slug: led-fireflies-in-a-jar
 
 [![LED Fireflies in a Jar][]][]

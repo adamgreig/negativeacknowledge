@@ -1,7 +1,7 @@
 Title: Modifying an HS-311 Servo for Continuous Rotation
 Date: 2008-06-11 16:17
-Author: admin
-Category: Electronics, Robotics, Uncategorized
+Author: Adam Greig
+Tags: Electronics, Robotics, Uncategorized
 Slug: modifying-an-hs-311-servo-for-continuous-rotation
 
 I'm having a play with robotics stuff now, and one of the first steps

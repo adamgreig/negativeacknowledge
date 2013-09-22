@@ -1,7 +1,7 @@
 Title: Dual LED Matrix Message Board
 Date: 2008-05-14 18:37
-Author: admin
-Category: Arduino, Electronics
+Author: Adam Greig
+Tags: Arduino, Electronics
 Slug: dual-led-matrix-message-board
 
 Well, the second matrix for my [LED message board][] arrived today!
