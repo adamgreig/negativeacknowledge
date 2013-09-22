@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=paladin
 SSH_PORT=22
 SSH_USER=adam
-SSH_TARGET_DIR=/var/www
+SSH_TARGET_DIR=/home/www/negativeacknowledge.com/public_html/
 
 S3_BUCKET=my_s3_bucket
 

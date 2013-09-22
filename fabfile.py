@@ -8,7 +8,7 @@ DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
 production = 'adam@paladin:22'
-dest_path = '~/negack/'
+dest_path = '/home/www/negativeacknowledge.com/public_html/'
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):
