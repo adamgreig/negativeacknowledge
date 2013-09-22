@@ -10,11 +10,11 @@ decided to find another use for some of them.
 That turned out to be soldering 40 of them together and sticking them to
 my wall!
 
-[![LED Lighting][]][]
+![LED Lighting](http://static.flickr.com/2200/2462585032_774bb81f31_m.jpg)
 
 They actually light up my room fairly well:
 
-[![LED Lighting][1]][]
+![LED Lighting](http://static.flickr.com/3248/2461754643_96ffc6e47c_m.jpg)
 
 For now, they are being run directly from a 3V mains power supply.
 However, once a few parts arrive I'm going to make a little PCB for them
@@ -31,10 +31,6 @@ The 3.3V regulator and electret microphones are on order, and I'll get
 getting the amp and some nice pots soon too! I'll post when I get that
 working out.
 
+[Flickr](http://www.flickr.com/photos/7320302@N07/2461754643/)
+
   [attempt at charlieplexing]: http://negativeacknowledge.com/2008/05/08/20-leds-5-pins-charlieplexing/
-  [LED Lighting]: http://static.flickr.com/2200/2462585032_774bb81f31_m.jpg
-  [![LED Lighting][]]: http://www.flickr.com/photos/7320302@N07/2462585032/
-    "LED Lighting"
-  [1]: http://static.flickr.com/3248/2461754643_96ffc6e47c_m.jpg
-  [![LED Lighting][1]]: http://www.flickr.com/photos/7320302@N07/2461754643/
-    "LED Lighting"

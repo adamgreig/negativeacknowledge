@@ -4,23 +4,23 @@ Author: Adam Greig
 Tags: Uncategorized
 Slug: led-matrix-controller
 
-[][]A while ago, I got an LED matrix from SparkFun, and soon had it
+A while ago, I got an LED matrix from SparkFun, and soon had it
 rigged up on a breadboard:
 
-[![Arduino and 64 LED matrix][]][]
+![Arduino and 64 LED matrix](http://farm3.static.flickr.com/2257/2206373282_96c1288048.jpg)
 
 It could scroll any text I wanted, specified as a char array in the
 code. I had it working fairly well and decided to make a PCB for it...
 
 A month or so later, the PCB arrived from BatchPCB:
 
-[![LED Matrix PCB][]][]
+![LED Matrix PCB](http://farm3.static.flickr.com/2141/2328011782_0c64a75c69.jpg)
 
-[![LED Matrix PCB][1]][]
+![LED Matrix PCB](http://farm3.static.flickr.com/2004/2327196583_04c0b113ac.jpg)
 
 I soldered it together pronto:
 
-[![LED Matrix PCB][2]][]
+![LED Matrix PCB](http://farm4.static.flickr.com/3024/2328024320_aba3ab1c26.jpg)
 
 The resistors were a pain because there were so many, and the FT232RL
 was a pain because the pitch is so small, but overall I had no major
@@ -28,7 +28,7 @@ problems and everything came together quickly.
 
 PCB with an LED matrix plugged in:
 
-[![LED Matrix PCB][3]][]
+![LED Matrix PCB](http://farm3.static.flickr.com/2388/2328025892_5109768b8a.jpg)
 
 Sadly I only have one LED matrix and SparkFun are all sold out of the
 medium sized RG ones; I've not been able to find them anywhere else
@@ -51,7 +51,7 @@ been a problem in my circuit symbol for the LED matrix, I had the bottom
 4 cathodes labelled backwards. Whoops!  
 Luckily this was easy to fix in software, so I soon had it all working:
 
-[![LED Matrix PCB][4]][]
+![LED Matrix PCB](http://farm4.static.flickr.com/3274/2327212369_ff9b190ef3.jpg)
 
 However, this wasn't the end of my issues. The ATmega168 is running at
 12MHz from the FT232RL instead of using a seperate crystal and caps.
@@ -74,21 +74,4 @@ solder, using tinyUSB and just one matrix, possibly having them connect
 together. I could probably release this as a kit or similar, so watch
 this space!
 
-  []: http://flickr.com/photos/randomskk/2328011782
-    "View this photo on Flickr"
-  [Arduino and 64 LED matrix]: http://farm3.static.flickr.com/2257/2206373282_96c1288048.jpg
-  [![Arduino and 64 LED matrix][]]: http://flickr.com/photos/randomskk/2206373282
-    "View this photo on Flickr"
-  [LED Matrix PCB]: http://farm3.static.flickr.com/2141/2328011782_0c64a75c69.jpg
-  [1]: http://farm3.static.flickr.com/2004/2327196583_04c0b113ac.jpg
-  [![LED Matrix PCB][1]]: http://flickr.com/photos/randomskk/2327196583
-    "View this photo on Flickr"
-  [2]: http://farm4.static.flickr.com/3024/2328024320_aba3ab1c26.jpg
-  [![LED Matrix PCB][2]]: http://flickr.com/photos/randomskk/2328024320
-    "View this photo on Flickr"
-  [3]: http://farm3.static.flickr.com/2388/2328025892_5109768b8a.jpg
-  [![LED Matrix PCB][3]]: http://flickr.com/photos/randomskk/2328025892
-    "View this photo on Flickr"
-  [4]: http://farm4.static.flickr.com/3274/2327212369_ff9b190ef3.jpg
-  [![LED Matrix PCB][4]]: http://flickr.com/photos/randomskk/2327212369
-    "View this photo on Flickr"
+[Flickr](http://flickr.com/photos/randomskk/2327212369)

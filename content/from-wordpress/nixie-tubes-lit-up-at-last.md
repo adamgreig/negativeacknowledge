@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Electronics, HomeMadePCBs
 Slug: nixie-tubes-lit-up-at-last
 
-[![Nixies At Last][]][]
+![Nixies At Last](http://static.flickr.com/3060/2886242440_ddc348a7fb_m.jpg)
 
 I know I got them months and months ago, but I've only just had time to
 actually do anything besides work. While I do have a big project coming
@@ -28,18 +28,12 @@ three of the power supply modules) and maybe link it into an RTC (though
 that is a bit boring - I might try doing something else, like GPS
 position?).
 
-[![Nixies At Last][1]][]
+![Nixies At Last](http://static.flickr.com/3107/2885405091_445ab05536_m.jpg)
 
 [Schematic][] - [Board][] (the board isn't great, with some pretty fine
 tracks that run pretty close to each other, but it does have the 56k
 resistor I forgot in my version) (both files under [CC-BY-SA-NC][]).
 
-  [Nixies At Last]: http://static.flickr.com/3060/2886242440_ddc348a7fb_m.jpg
-  [![Nixies At Last][]]: http://www.flickr.com/photos/7320302@N07/2886242440/
-    "Nixies At Last"
-  [1]: http://static.flickr.com/3107/2885405091_445ab05536_m.jpg
-  [![Nixies At Last][1]]: http://www.flickr.com/photos/7320302@N07/2885405091/
-    "Nixies At Last"
   [Schematic]: http://randomskk.net/projects/nixie_psu/psu.sch
     "PSU Schematic"
   [Board]: http://randomskk.net/projects/nixie_psu/psu.brd "PSU Board"

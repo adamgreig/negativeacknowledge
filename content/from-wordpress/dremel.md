@@ -24,22 +24,18 @@ At the end of the day, it works very well for both cutting and
 especially drilling PCBs, so all I need now is a laser printer and I'll
 be fully set to make them at home!
 
-[![Dremel][]][]
+![Dremel][]
 
 (Cutting disk)
 
-[![Dremel][1]][]
+![Dremel][1]
 
-[![Dremel][2]][]
+![Dremel][2]
 
 (Drill bit)
 
+[Flickr](http://flickr.com/photos/randomskk/2293865929)
+
   [Dremel]: http://farm4.static.flickr.com/3109/2293860897_5876cd5eab.jpg
-  [![Dremel][]]: http://flickr.com/photos/randomskk/2293860897
-    "View this photo on Flickr"
   [1]: http://farm3.static.flickr.com/2022/2293863401_0d413fa33f.jpg
-  [![Dremel][1]]: http://flickr.com/photos/randomskk/2293863401
-    "View this photo on Flickr"
   [2]: http://farm3.static.flickr.com/2211/2293865929_14338ddfca.jpg
-  [![Dremel][2]]: http://flickr.com/photos/randomskk/2293865929
-    "View this photo on Flickr"

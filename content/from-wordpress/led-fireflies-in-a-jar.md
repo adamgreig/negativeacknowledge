@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: AVR, Electronics, HomeMadePCBs
 Slug: led-fireflies-in-a-jar
 
-[![LED Fireflies in a Jar][]][]
+![LED Fireflies in a Jar](http://static.flickr.com/3034/2953037304_834f140e84_m.jpg)
 
 I've been trying to make electronic fireflies for ages now, and most of
 my previous attempts involved RGB LEDs, and one of them per ATtiny13
@@ -58,21 +58,11 @@ lit up, though.
 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true"></param><param name="src" value="http://www.youtube.com/v/0Yk0CZp2Ywc&amp;hl=en&amp;fs=1&amp;color1=0x3a3a3a&amp;color2=0x999999"></param><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/0Yk0CZp2Ywc&amp;hl=en&amp;fs=1&amp;color1=0x3a3a3a&amp;color2=0x999999" allowfullscreen="true"></embed></object>
 
-[![LED Fireflies in a Jar][1]][]
-
-[![LED Fireflies in a Jar][2]][]
+![LED Fireflies in a Jar](http://static.flickr.com/3061/2953036200_d5c4a2dff8_m.jpg)
+![LED Fireflies in a Jar](http://static.flickr.com/3147/2953034618_ac10b192af_m.jpg)
+[More photos](http://www.flickr.com/photos/7320302@N07/2953034618/)
 
 Eagle schematic and PCB file, C source code and compiled hex file
-available at: [http://randomskk.net/projects/fireflies\_in\_jar][] all
+available at: [link](http://randomskk.net/projects/fireflies_in_jar) all
 files are released under CC BY-SA-NC license
 
-  [LED Fireflies in a Jar]: http://static.flickr.com/3034/2953037304_834f140e84_m.jpg
-  [![LED Fireflies in a Jar][]]: http://www.flickr.com/photos/7320302@N07/2953037304/
-    "LED Fireflies in a Jar"
-  [1]: http://static.flickr.com/3061/2953036200_d5c4a2dff8_m.jpg
-  [![LED Fireflies in a Jar][1]]: http://www.flickr.com/photos/7320302@N07/2953036200/
-    "LED Fireflies in a Jar"
-  [2]: http://static.flickr.com/3147/2953034618_ac10b192af_m.jpg
-  [![LED Fireflies in a Jar][2]]: http://www.flickr.com/photos/7320302@N07/2953034618/
-    "LED Fireflies in a Jar"
-  [http://randomskk.net/projects/fireflies\_in\_jar]: http://randomskk.net/projects/fireflies_in_jar

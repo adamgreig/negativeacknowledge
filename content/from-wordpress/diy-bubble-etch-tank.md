@@ -17,7 +17,7 @@ this "clear etchant" from Rapid.
 
 About ten minutes later with a hot glue gun, I'd put together this:
 
-[![making a bubble etching tank][]][]
+![making a bubble etching tank](http://static.flickr.com/2387/2331187207_f7c55504fa_m.jpg)
 
 It has a piece of plastic with large holes in from a 99p peg basket from
 Tescos, and some more holes drilled in that. The blue stone at the
@@ -48,7 +48,7 @@ gotten more bubbles over the entire length of the air stone.
 The whole affair took rather a long time, but I did manage to etch 5 LED
 Firefly prototype boards, and a few ICSP-to-breadboard adapter PCBs:
 
-[![Etched][]][]
+![Etched](http://static.flickr.com/2033/2348213674_dd4b3a8205_m.jpg)
 
 They came out fairly nicely, so no complaints there. The clear etchant
 has since turned a nice blue, which is somewhat interesting.
@@ -56,9 +56,4 @@ has since turned a nice blue, which is somewhat interesting.
 I'll be sure to update when I've got the new design working, because it
 still has the potential to be a lot better than doing it the old way.
 
-  [making a bubble etching tank]: http://static.flickr.com/2387/2331187207_f7c55504fa_m.jpg
-  [![making a bubble etching tank][]]: http://www.flickr.com/photos/7320302@N07/2331187207/
-    "making a bubble etching tank"
-  [Etched]: http://static.flickr.com/2033/2348213674_dd4b3a8205_m.jpg
-  [![Etched][]]: http://www.flickr.com/photos/7320302@N07/2348213674/
-    "Etched"
+[Flickr](http://www.flickr.com/photos/7320302@N07/2331187207/)

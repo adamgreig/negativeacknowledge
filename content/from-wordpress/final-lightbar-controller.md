@@ -6,7 +6,7 @@ Slug: final-lightbar-controller
 
 I've finished the lightbar controller!
 
-[![Lightbar Visualiser][]][]
+![Lightbar Visualiser](http://static.flickr.com/3041/2570139325_288bd6e6ef_m.jpg)
 
 This device analyses the music it picks up via the electret microphone,
 then flashes the LEDs in time to the music. It's encased in the box
@@ -14,7 +14,7 @@ SparkFun sent me the microphones in, since the box was just begging to
 be used as a case for something! I'm sure that was intentionally
 designed.
 
-[![Lightbar Visualiser][1]][]
+![Lightbar Visualiser](http://static.flickr.com/3106/2570965162_1b8a6009d1_m.jpg)
 
 Getting a bit more technical:
 
@@ -24,7 +24,7 @@ resolution. The ATtiny13 then keeps a running average of the noise
 level, and flashes the LEDs if the current volume exceeds the average by
 a scalar amount.
 
-[![Lightbar Visualiser][2]][]
+![Lightbar Visualiser](http://static.flickr.com/3262/2570962450_c3d00cc974_m.jpg)
 
 As a result, the LEDs flash on when the music hits a peak, and are off
 otherwise - no matter what volume.  
@@ -41,13 +41,4 @@ Download the schematic, PCB layout, code:
 under Creative Commons BY-SA-NC 3.0).[  
 ][https://randomskk.net/projects/lightstrip/]
 
-  [Lightbar Visualiser]: http://static.flickr.com/3041/2570139325_288bd6e6ef_m.jpg
-  [![Lightbar Visualiser][]]: http://www.flickr.com/photos/7320302@N07/2570139325/
-    "Lightbar Visualiser"
-  [1]: http://static.flickr.com/3106/2570965162_1b8a6009d1_m.jpg
-  [![Lightbar Visualiser][1]]: http://www.flickr.com/photos/7320302@N07/2570965162/
-    "Lightbar Visualiser"
-  [2]: http://static.flickr.com/3262/2570962450_c3d00cc974_m.jpg
-  [![Lightbar Visualiser][2]]: http://www.flickr.com/photos/7320302@N07/2570962450/
-    "Lightbar Visualiser"
   [https://randomskk.net/projects/lightstrip/]: https://randomskk.net/projects/lightstrip/
