@@ -12,8 +12,6 @@ DEFAULT_LANG = u'en'
 
 FILENAME_METADATA = r'(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
 
-TYPOGRIFY = True
-
 THEME = 'themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'slate'
 DISPLAY_PAGES_ON_MENU = True
@@ -25,10 +23,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
-MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
 
-ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{slug}'
-ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{slug}/index.html'
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}/index.html'
 
 # Blogroll
 LINKS = (('adamgreig.com', 'https://adamgreig.com'),
