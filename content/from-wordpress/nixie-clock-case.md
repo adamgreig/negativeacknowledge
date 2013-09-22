@@ -8,7 +8,7 @@ Hurrah! The laser cut acrylic for my [NIXIE tube clock case][]arrived
 this morning, and amazingly all the parts fit together nicely. The screw
 holes even matched up with the PCBs!
 
-<a href="http://www.flickr.com/photos/randomskk/4259022595/" title="Nixie Clock Case"><img src="http://farm3.staticflickr.com/2714/4259022595_b73c77bf68_z.jpg" alt="Nixie Clock Case" /></a>
+<a href="http://www.flickr.com/photos/randomskk/4259022595/" title="Nixie Clock Case"><img src="http://farm3.staticflickr.com/2714/4259022595_b73c77bf68.jpg" alt="Nixie Clock Case" /></a>
 
 I'm pretty happy with how this turned out, and I can finally say the
 nixie clock project is finished. I definitely learned a lot for the next

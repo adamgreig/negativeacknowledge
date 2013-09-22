@@ -7,7 +7,7 @@ Slug: nixie-clock
 While I don't consider the clock entirely finished, I think it's been
 around for long enough to write up.
 
-<a href="http://www.flickr.com/photos/randomskk/3535053070/" title="NIXIE Clock: Basics"><img src="http://farm3.staticflickr.com/2242/3535053070_095546ec89_z.jpg" alt="NIXIE Clock: Basics" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3535053070/" title="NIXIE Clock: Basics"><img src="http://farm3.staticflickr.com/2242/3535053070_095546ec89.jpg" alt="NIXIE Clock: Basics" /></a>
 
 Everyone has to make a nixie clock at some time, and as I had 12 IN-14
 type tubes lying around for quite a while after ordering them from
@@ -28,7 +28,7 @@ routings I thought could reduce via count or otherwise shorten traces.
 The design works very well, and successfully drives the nixies at
 sufficient brightness.
 
-<a href="http://www.flickr.com/photos/randomskk/3532227288/" title="0141"><img src="http://farm3.staticflickr.com/2286/3532227288_080b64d1e1_z.jpg" alt="0141" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3532227288/" title="0141"><img src="http://farm3.staticflickr.com/2286/3532227288_080b64d1e1.jpg" alt="0141" /></a>
 
 The power supply takes around 12V DC input and converts it to around
 220V DC output in a switch mode design. Essentially, the microchip opens
@@ -52,8 +52,8 @@ you just hold down the time item you want to change
 (hour/min/sec/day/month/year) and press the up or down button to adjust,
 holding it down to make large changes.
 
-<a href="http://www.flickr.com/photos/randomskk/3532235978/" title="0143"><img src="http://farm4.staticflickr.com/3558/3532235978_86b044c004_z.jpg" alt="0143" /></a>
-<a href="http://www.flickr.com/photos/randomskk/3532232892/" title="0142"><img src="http://farm3.staticflickr.com/2051/3532232892_4e85e78473_z.jpg" alt="0142" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3532235978/" title="0143"><img src="http://farm4.staticflickr.com/3558/3532235978_86b044c004.jpg" alt="0143" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3532232892/" title="0142"><img src="http://farm3.staticflickr.com/2051/3532232892_4e85e78473.jpg" alt="0142" /></a>
 
 **Driver  
 **The driver PCB contains two nixie tubes, two old 7414N logic chips
@@ -64,8 +64,8 @@ this to the 7414Ns which decode it and pull one of their ten outputs to
 ground. That output is connected to one of the numerals in the nixie
 tube, causing it to light up.
 
-<a href="http://www.flickr.com/photos/randomskk/3532240890/" title="0144"><img src="http://farm4.staticflickr.com/3328/3532240890_bfbe757719_z.jpg" alt="0144" /></a>
-<a href="http://www.flickr.com/photos/randomskk/3532243890/" title="0145"><img src="http://farm3.staticflickr.com/2283/3532243890_7f36d87eb7_z.jpg" alt="0145" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3532240890/" title="0144"><img src="http://farm4.staticflickr.com/3328/3532240890_bfbe757719.jpg" alt="0144" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3532243890/" title="0145"><img src="http://farm3.staticflickr.com/2283/3532243890_7f36d87eb7.jpg" alt="0145" /></a>
 
 **Overall**, I've found it to be a really neat clock. I plan to make a
 nice case for it at some point in the future, but making nice cases is

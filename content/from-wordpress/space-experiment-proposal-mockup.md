@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Arduino, Electronics
 Slug: space-experiment-proposal-mockup
 
-![Detecting Reflected Light](http://static.flickr.com/2227/2476361263_e0243f1688_m.jpg)
+![Detecting Reflected Light](http://static.flickr.com/2227/2476361263_e0243f1688.jpg)
 
 So, I'm part of a team entering the UK Space Experiment Competition, and
 basically our proposal won out and is now one of six final proposals
@@ -22,7 +22,7 @@ your hand or a piece of paper over the LEDs, the light reflects down
 onto the LDR, increasing the light level! In space, the bits of dust act
 as the paper and you can detect a whole lot less light.
 
-![Detecting Reflected Light](http://static.flickr.com/2091/2476363853_9437c182ee_m.jpg)
+![Detecting Reflected Light](http://static.flickr.com/2091/2476363853_9437c182ee.jpg)
 
 The next step is vacuum forming a little case for the thing!
 

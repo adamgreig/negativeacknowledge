@@ -4,6 +4,8 @@ Author: Adam Greig
 Tags: Electronics
 Slug: dremel
 
+![Dremel][]
+
 My first dremel arrived today (the 300), along with a drill press stand
 for it, a multichuck and some cutting disks.
 
@@ -23,8 +25,6 @@ around that problem.
 At the end of the day, it works very well for both cutting and
 especially drilling PCBs, so all I need now is a laser printer and I'll
 be fully set to make them at home!
-
-![Dremel][]
 
 (Cutting disk)
 

@@ -1,7 +1,7 @@
 Title: LED Matrix Controller
 Date: 2008-03-12 14:04
 Author: Adam Greig
-Tags: Uncategorized
+Tags: Electronics, AVR
 Slug: led-matrix-controller
 
 A while ago, I got an LED matrix from SparkFun, and soon had it

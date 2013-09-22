@@ -1,23 +1,23 @@
 Title: Space Experiment Mockup #2
 Date: 2008-05-11 14:51
 Author: Adam Greig
-Tags: Arduino, Electronics, HomeMadePCBs
+Tags: Arduino, Electronics
 Slug: space-experiment-mockup-2
 
-![Space Experiment Mockup](http://static.flickr.com/2257/2483123784_626a5e7232_m.jpg)
+![Space Experiment Mockup](http://static.flickr.com/2257/2483123784_626a5e7232.jpg)
 
 So I created a PCB for the Space Experiment mockup.
 
 It's functionally identical to the breadboarded version but is its own
 PCB, looks a lot better and has some text on it.
 
-![Space Experiment Mockup](http://static.flickr.com/3224/2483135246_61e95f2443_m.jpg)
+![Space Experiment Mockup](http://static.flickr.com/3224/2483135246_61e95f2443.jpg)
 
 It actually took three tries to get it right. The first time, it all
 worked nicely and I etched it perfectly, only to realise I'd messed up
 the design!
 
-![Etching](http://static.flickr.com/3126/2481064371_257a31ca60_m.jpg)
+![Etching](http://static.flickr.com/3126/2481064371_257a31ca60.jpg)
 I'm making the PCB as a shield for an Arduino, so it plugs into the
 top. I had the layout fine and was initially assuming I'd have the
 copper on the bottom (since the LEDs have to be on top), but later
@@ -27,12 +27,12 @@ printed, if made properly, should have resulted in mirrored text on top.
 Instead I made it so the text was readable - which means the copper had
 to go on the bottom for it to connect to the Arduino!
 
-![IMG\_7918.JPG](http://static.flickr.com/3164/2482561537_334c578b21_m.jpg)
+![IMG\_7918.JPG](http://static.flickr.com/3164/2482561537_334c578b21.jpg)
 
 The next revision fixed this but was overetched and would have taken a
 whole load of fixing up, which is a pity.
 
-![IMG\_7919.JPG](http://static.flickr.com/3296/2483379068_f8cce7f92c_m.jpg)
+![IMG\_7919.JPG](http://static.flickr.com/3296/2483379068_f8cce7f92c.jpg)
 
 Finally, I had it all perfect! All the text is really readable, I have a
 right angle socket for the LCD connector, and it all worked first time.
@@ -40,7 +40,7 @@ Lovely!
 
 I did have one new trick in the process this time:
 
-![IMG\_7886.JPG](http://static.flickr.com/3202/2481109535_5418e97032_m.jpg)
+![IMG\_7886.JPG](http://static.flickr.com/3202/2481109535_5418e97032.jpg)
 
 This awesome plastic scourer thing has a nice, easy to use handle and
 really really tough plastic bristles, which are absolutely ideal for

@@ -10,11 +10,11 @@ decided to find another use for some of them.
 That turned out to be soldering 40 of them together and sticking them to
 my wall!
 
-![LED Lighting](http://static.flickr.com/2200/2462585032_774bb81f31_m.jpg)
+![LED Lighting](http://static.flickr.com/2200/2462585032_774bb81f31.jpg)
 
 They actually light up my room fairly well:
 
-![LED Lighting](http://static.flickr.com/3248/2461754643_96ffc6e47c_m.jpg)
+![LED Lighting](http://static.flickr.com/3248/2461754643_96ffc6e47c.jpg)
 
 For now, they are being run directly from a 3V mains power supply.
 However, once a few parts arrive I'm going to make a little PCB for them

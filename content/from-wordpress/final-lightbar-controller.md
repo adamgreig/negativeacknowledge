@@ -1,12 +1,12 @@
 Title: Final Lightbar Controller
 Date: 2008-06-11 16:52
 Author: Adam Greig
-Tags: AVR, Electronics, HomeMadePCBs, Robotics
+Tags: AVR, Electronics, Robotics
 Slug: final-lightbar-controller
 
 I've finished the lightbar controller!
 
-![Lightbar Visualiser](http://static.flickr.com/3041/2570139325_288bd6e6ef_m.jpg)
+![Lightbar Visualiser](http://static.flickr.com/3041/2570139325_288bd6e6ef.jpg)
 
 This device analyses the music it picks up via the electret microphone,
 then flashes the LEDs in time to the music. It's encased in the box
@@ -14,7 +14,7 @@ SparkFun sent me the microphones in, since the box was just begging to
 be used as a case for something! I'm sure that was intentionally
 designed.
 
-![Lightbar Visualiser](http://static.flickr.com/3106/2570965162_1b8a6009d1_m.jpg)
+![Lightbar Visualiser](http://static.flickr.com/3106/2570965162_1b8a6009d1.jpg)
 
 Getting a bit more technical:
 
@@ -24,7 +24,7 @@ resolution. The ATtiny13 then keeps a running average of the noise
 level, and flashes the LEDs if the current volume exceeds the average by
 a scalar amount.
 
-![Lightbar Visualiser](http://static.flickr.com/3262/2570962450_c3d00cc974_m.jpg)
+![Lightbar Visualiser](http://static.flickr.com/3262/2570962450_c3d00cc974.jpg)
 
 As a result, the LEDs flash on when the music hits a peak, and are off
 otherwise - no matter what volume.  

@@ -15,7 +15,7 @@ I've been playing with a few things besides that project, though. The
 first is stress testing my small and somewhat dodgy [NIXIE PSU](http://negativeacknowledge.com/2008/09/nixie-tubes-lit-up-at-last/), which
 amazingly has managed to drive eight tubes:
 
-![8 nixies: getting dangerous](http://farm4.static.flickr.com/3567/3279522143_79c282a60d_m.jpg)
+![8 nixies: getting dangerous](http://farm4.static.flickr.com/3567/3279522143_79c282a60d.jpg)
 
 I plan to finish off designing a
 somewhat more powerful power supply so I don't worry about it exploding

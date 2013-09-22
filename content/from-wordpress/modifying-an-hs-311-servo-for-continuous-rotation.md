@@ -1,13 +1,13 @@
 Title: Modifying an HS-311 Servo for Continuous Rotation
 Date: 2008-06-11 16:17
 Author: Adam Greig
-Tags: Electronics, Robotics, Uncategorized
+Tags: Electronics, Robotics
 Slug: modifying-an-hs-311-servo-for-continuous-rotation
 
 I'm having a play with robotics stuff now, and one of the first steps
 was to get something moving.
 
-![Distance-o-meter](http://static.flickr.com/3106/2568351079_e210acf87f_m.jpg)
+![Distance-o-meter](http://static.flickr.com/3106/2568351079_e210acf87f.jpg)
 
 I ordered some cheapo servos from [ServoShop UK][] and had a play, they
 work fine.
@@ -31,7 +31,7 @@ Click the picture to go to step one, then step through each photo in
 Flickr (you can see the thumbnail for the next photo under the Set
 title):
 
-<a href="http://www.flickr.com/photos/7320302@N07/2569969633/">![Modifying an HS-311 Servo for Continuous Rotation](http://static.flickr.com/3256/2569969633_301de725fe_m.jpg)</a>
+<a href="http://www.flickr.com/photos/7320302@N07/2569969633/">![Modifying an HS-311 Servo for Continuous Rotation](http://static.flickr.com/3256/2569969633_301de725fe.jpg)</a>
 
   [ServoShop UK]: http://www.servoshop.co.uk/
   [Society of Robots]: http://www.societyofrobots.com/

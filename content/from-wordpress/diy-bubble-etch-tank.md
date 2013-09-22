@@ -1,8 +1,10 @@
 Title: DIY Bubble Etch Tank
 Date: 2008-04-04 20:14
 Author: Adam Greig
-Tags: Electronics, HomeMadePCBs
+Tags: Electronics
 Slug: diy-bubble-etch-tank
+
+![making a bubble etching tank](http://static.flickr.com/2387/2331187207_f7c55504fa.jpg)
 
 I've been planning to improve on my current etching solution (namely,
 waving PCBs around in a bowl of ferric chloride for ten minutes) and the
@@ -17,7 +19,7 @@ this "clear etchant" from Rapid.
 
 About ten minutes later with a hot glue gun, I'd put together this:
 
-![making a bubble etching tank](http://static.flickr.com/2387/2331187207_f7c55504fa_m.jpg)
+![making a bubble etching tank](http://static.flickr.com/2387/2331187207_f7c55504fa.jpg)
 
 It has a piece of plastic with large holes in from a 99p peg basket from
 Tescos, and some more holes drilled in that. The blue stone at the
@@ -48,7 +50,7 @@ gotten more bubbles over the entire length of the air stone.
 The whole affair took rather a long time, but I did manage to etch 5 LED
 Firefly prototype boards, and a few ICSP-to-breadboard adapter PCBs:
 
-![Etched](http://static.flickr.com/2033/2348213674_dd4b3a8205_m.jpg)
+![Etched](http://static.flickr.com/2033/2348213674_dd4b3a8205.jpg)
 
 They came out fairly nicely, so no complaints there. The clear etchant
 has since turned a nice blue, which is somewhat interesting.
