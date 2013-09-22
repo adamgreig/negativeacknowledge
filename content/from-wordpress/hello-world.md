@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Meta
 Slug: hello-world
 
-[![Hello, World! [Roadside Flower]][]][]
+![Hello, World!](http://farm3.static.flickr.com/2390/2284456054_e67af94b61.jpg)
 
 Hey everyone,
 
@@ -20,9 +20,3 @@ idea of the kind of things I've been playing with.
 Thanks for dropping by!
 
 Adam
-
-  [Hello, World! [Roadside Flower]]: http://farm3.static.flickr.com/2390/2284456054_e67af94b61.jpg
-  [![Hello, World! [Roadside Flower]][]]: http://flickr.com/photos/randomskk/2284456054
-    "View this photo on Flickr"
-  [here]: http://flickr.com/photos/randomskk/tags/electronics
-    "Randomskk's Photos tagged 'Electronics'"

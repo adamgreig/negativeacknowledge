@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Arduino, Electronics
 Slug: nixies-and-accelerometers
 
-[![Four Nixies!][]][]
+![Four Nixies](http://farm4.static.flickr.com/3424/3258599547_bc1cab87ca.jpg)
 
 It's been a while since I've posted anything, so I'll drop a quick
 update. Hopefully by the end of the coming week I'll have finished on my
@@ -12,10 +12,12 @@ current great big time-consuming project and will be able to write that
 up.
 
 I've been playing with a few things besides that project, though. The
-first is stress testing my small and somewhat dodgy [NIXIE PSU][], which
+first is stress testing my small and somewhat dodgy [NIXIE PSU](http://negativeacknowledge.com/2008/09/nixie-tubes-lit-up-at-last/), which
 amazingly has managed to drive eight tubes:
 
-[![8 nixies: getting dangerous][]][] I plan to finish off designing a
+![8 nixies: getting dangerous](http://farm4.static.flickr.com/3567/3279522143_79c282a60d_m.jpg)
+
+I plan to finish off designing a
 somewhat more powerful power supply so I don't worry about it exploding
 in my face every time I try using it. A better way to control it than a
 plain RTC would be nice too - I'm thinking of using a GPS module.
@@ -24,7 +26,7 @@ plain RTC would be nice too - I'm thinking of using a GPS module.
 realise -- oops!)
 
 The other thing I've recently been playing with is an accelerometer I
-got for Christmas. It's the [LIS302DL][] from Sparkfun, a super cheap
+got for Christmas. It's the [LIS302DL](http://www.sparkfun.com/commerce/product_info.php?products_id=8658) from Sparkfun, a super cheap
 3-axis accelerometer that can output on SPI or I²C, has interrupts for
 freefall and things like the user tapping it or double tapping it, and
 adjustable sensitivity - 2g or 8g. All that for $20 on a breakout board
@@ -44,39 +46,16 @@ single value showing the resultant acceleration on all three axis. This
 was plotted against the millisecond value from the arduino and hey
 presto - a (nearly) perfect sine wave!
 
-[![Simple Harmonic Motion][]][][![Simple Harmonic Motion Zoomed In][]][]
+![Simple Harmonic Motion](|filename|/images/from-wordpress/shm.png)
+![Simple Harmonic Motion Zoomed In](|filename|/images/from-wordpress/shm2.png)
 
 Not bad! The accelerometer itself:
 
-[![Arduino + LIS302DL Accelerometer][]][]
+![Arduino + LIS302DL Accelerometer](http://farm4.static.flickr.com/3291/3283553082_7159ddbc4e.jpg)
 
 (p.s. be sure to view the full sized image for tons of lovely macro
 sharpness)
 
-[arduino\_loguino][] - the arduino code (CC BY-SA 3.0)
-
-[python\_loguino][] - the python code (Public Domain)
-
 For bonus points: Given that the Arduino was on the Earth's surface, and
 that the millisecond data is accurate, how long was the USB cable the
 Arduino was swinging from?
-
-  [Four Nixies!]: http://farm4.static.flickr.com/3424/3258599547_bc1cab87ca.jpg
-  [![Four Nixies!][]]: http://www.flickr.com/photos/randomskk/3258599547/
-    "Four Nixies!"
-  [NIXIE PSU]: http://negativeacknowledge.com/2008/09/nixie-tubes-lit-up-at-last/
-  [8 nixies: getting dangerous]: http://farm4.static.flickr.com/3567/3279522143_79c282a60d_m.jpg
-  [![8 nixies: getting dangerous][]]: http://www.flickr.com/photos/randomskk/3279522143/
-    "8 nixies: getting dangerous"
-  [LIS302DL]: http://www.sparkfun.com/commerce/product_info.php?products_id=8658
-  [Simple Harmonic Motion]: http://negativeacknowledge.com/wp-content/uploads/2009/02/shm.png
-    "Simple Harmonic Motion"
-  [![Simple Harmonic Motion][]]: http://negativeacknowledge.com/wp-content/uploads/2009/02/shm.png
-  [Simple Harmonic Motion Zoomed In]: http://negativeacknowledge.com/wp-content/uploads/2009/02/shm2.png
-    "Simple Harmonic Motion Zoomed In"
-  [![Simple Harmonic Motion Zoomed In][]]: http://negativeacknowledge.com/wp-content/uploads/2009/02/shm2.png
-  [Arduino + LIS302DL Accelerometer]: http://farm4.static.flickr.com/3291/3283553082_7159ddbc4e.jpg
-  [![Arduino + LIS302DL Accelerometer][]]: http://www.flickr.com/photos/randomskk/3283553082/
-    "Arduino + LIS302DL Accelerometer"
-  [arduino\_loguino]: http://negativeacknowledge.com/wp-content/uploads/2009/02/arduino_loguino.html
-  [python\_loguino]: http://negativeacknowledge.com/wp-content/uploads/2009/02/python_loguino.html
