@@ -43,11 +43,8 @@ RELATIVE_URLS = True
 
 # Web links
 LINKS = (('adamgreig.com', 'https://adamgreig.com'),
-         ('M0RND.net', 'http://m0rnd.net'),
          ('randomskk.net', 'https://randomskk.net'),
-         ('CU Spaceflight', 'http://cusf.co.uk'),
-         ('UK High Altitude Society', 'http://ukhas.org.uk'),
-         ('HabHub', 'http://habhub.org'),
+         ('M0RND.net', 'http://m0rnd.net'),
          )
 
 # Social links

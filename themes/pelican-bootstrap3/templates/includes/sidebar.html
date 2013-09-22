@@ -2,7 +2,7 @@
     <section>
         <ul class="list-group list-group-flush">
             {% if SOCIAL %}
-                <li class="list-group-item"><h4><i class="icon-home icon-large"></i>Social</h4></li>
+                <li class="list-group-item"><h4><i class="icon-home icon-large"></i>Elsewhere...</h4></li>
                 {% for name, link in SOCIAL %}
                     <li class="list-group-item"><a href="{{ link }}"><i
                             class="icon-{{ name }} icon-large"></i>{{ name }}
@@ -30,7 +30,7 @@
 
             <li class="list-group-item"><a href="{{ SITEURL }}/tags.html"><h4><i class="icon-tags icon-large"></i>Tags</h4></a></li>
             {% for tag in tag_cloud|sort(attribute='1') %}
-                <li class="list-group-item tag-{{ tag.1 }}">
+            <li class="list-group-item tag-{{ tag.1 }}"><i class="icon-tag"></i>
                     <a href="{{ SITEURL }}/{{ tag.0.url }}">
                         {{ tag.0 }}
                     </a>
