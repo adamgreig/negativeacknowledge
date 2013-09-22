@@ -1,0 +1,3 @@
+git+git://github.com/getpelican/pelican#egg=pelican
+Markdown
+typogrify
