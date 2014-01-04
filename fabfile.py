@@ -7,8 +7,8 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'adam@paladin:22'
-dest_path = '/home/www/negativeacknowledge.com/public_html/'
+production = 'adam@druid:22'
+dest_path = '/srv/www/negativeacknowledge.com/'
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):

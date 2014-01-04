@@ -10,6 +10,7 @@ TIMEZONE = 'Europe/London'
 DEFAULT_LANG = u'en'
 
 # Path Settings
+PATH = 'content/'
 FILENAME_METADATA = r'(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
