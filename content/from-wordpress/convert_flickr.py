@@ -9,7 +9,7 @@ FLICKR_API_URL += "&api_key="
 FLICKR_API_URL += sys.argv[1].strip()
 FLICKR_API_URL += "&photo_id="
 
-FLICKR_PHOTO_URL = "http://farm{farm}.staticflickr.com/"
+FLICKR_PHOTO_URL = "https://farm{farm}.staticflickr.com/"
 FLICKR_PHOTO_URL += "{server}/{photo}_{secret}_z.jpg"
 
 IMG_TAG = '<a href="{flickr_url}" title="{title}">'

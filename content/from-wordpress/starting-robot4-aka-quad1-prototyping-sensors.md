@@ -7,7 +7,7 @@ Slug: starting-robot4-aka-quad1-prototyping-sensors
 As briefly mentioned in my last post, my next project is an autonomous
 quadcopter. That is, a four-rotored flying robot.
 
-<a href="http://www.flickr.com/photos/randomskk/3946272514/" title="Robot4 aka Quad1 - First Prototyping"><img src="http://farm3.staticflickr.com/2439/3946272514_9be22a9a23.jpg" alt="Robot4 aka Quad1 - First Prototyping" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3946272514/" title="Robot4 aka Quad1 - First Prototyping"><img src="https://farm3.staticflickr.com/2439/3946272514_9be22a9a23.jpg" alt="Robot4 aka Quad1 - First Prototyping" /></a>
 
 After a couple of weeks of waiting around, I've got all the parts I've
 ordered so far: a basic aluminium chasis from MikroKopter, four
@@ -17,7 +17,7 @@ including an accelerometer, gyroscopes, barometer, magnetometer and GPS.
 I've also got spares of a few parts and a second set of accelerometers
 and gyroscopes to compare with.
 
-<a href="http://www.flickr.com/photos/randomskk/3946282126/" title="Robot4 aka Quad1 - First Prototyping"><img src="http://farm4.staticflickr.com/3487/3946282126_0b8e46bb4a.jpg" alt="Robot4 aka Quad1 - First Prototyping" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3946282126/" title="Robot4 aka Quad1 - First Prototyping"><img src="https://farm4.staticflickr.com/3487/3946282126_0b8e46bb4a.jpg" alt="Robot4 aka Quad1 - First Prototyping" /></a>
 
 I also bought four normal brushless motor controllers, which take a PWM
 input and control the motor. They're fine for prototyping with, but I

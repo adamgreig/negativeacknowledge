@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Electronics, Nixies
 Slug: nixie-tubes-lit-up-at-last
 
-![Nixies At Last](http://static.flickr.com/3060/2886242440_ddc348a7fb.jpg)
+![Nixies At Last](https://static.flickr.com/3060/2886242440_ddc348a7fb.jpg)
 
 I know I got them months and months ago, but I've only just had time to
 actually do anything besides work. While I do have a big project coming
@@ -28,7 +28,7 @@ three of the power supply modules) and maybe link it into an RTC (though
 that is a bit boring - I might try doing something else, like GPS
 position?).
 
-![Nixies At Last](http://static.flickr.com/3107/2885405091_445ab05536.jpg)
+![Nixies At Last](https://static.flickr.com/3107/2885405091_445ab05536.jpg)
 
 [Schematic][] - [Board][] (the board isn't great, with some pretty fine
 tracks that run pretty close to each other, but it does have the 56k

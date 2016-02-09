@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Arduino, Electronics
 Slug: nixies-and-accelerometers
 
-![Four Nixies](http://farm4.static.flickr.com/3424/3258599547_bc1cab87ca.jpg)
+![Four Nixies](https://farm4.static.flickr.com/3424/3258599547_bc1cab87ca.jpg)
 
 It's been a while since I've posted anything, so I'll drop a quick
 update. Hopefully by the end of the coming week I'll have finished on my
@@ -15,7 +15,7 @@ I've been playing with a few things besides that project, though. The
 first is stress testing my small and somewhat dodgy [NIXIE PSU](http://negativeacknowledge.com/2008/09/nixie-tubes-lit-up-at-last/), which
 amazingly has managed to drive eight tubes:
 
-![8 nixies: getting dangerous](http://farm4.static.flickr.com/3567/3279522143_79c282a60d.jpg)
+![8 nixies: getting dangerous](https://farm4.static.flickr.com/3567/3279522143_79c282a60d.jpg)
 
 I plan to finish off designing a
 somewhat more powerful power supply so I don't worry about it exploding
@@ -51,7 +51,7 @@ presto - a (nearly) perfect sine wave!
 
 Not bad! The accelerometer itself:
 
-![Arduino + LIS302DL Accelerometer](http://farm4.static.flickr.com/3291/3283553082_7159ddbc4e.jpg)
+![Arduino + LIS302DL Accelerometer](https://farm4.static.flickr.com/3291/3283553082_7159ddbc4e.jpg)
 
 (p.s. be sure to view the full sized image for tons of lovely macro
 sharpness)

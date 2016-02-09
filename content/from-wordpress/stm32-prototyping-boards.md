@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: ARM, Electronics
 Slug: stm32-prototyping-boards
 
-<a href="http://www.flickr.com/photos/randomskk/3921208392/" title="STM32 Development Board"><img src="http://farm3.staticflickr.com/2655/3921208392_76f5e1eefd.jpg" alt="STM32 Development Board" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3921208392/" title="STM32 Development Board"><img src="https://farm3.staticflickr.com/2655/3921208392_76f5e1eefd.jpg" alt="STM32 Development Board" /></a>
 
 I used an STM32 for the first time in [Robot2][], and soon discovered
 how cool they were. Each one is packed full of neat peripherals, runs
@@ -21,7 +21,7 @@ cables/breakouts which makes interfacing with an FTDI cable for
 programming (the bootloader listens on USART1) or with an xbee on one of
 SparkFun's breakouts is very easy.
 
-<a href="http://www.flickr.com/photos/randomskk/3920427009/" title="STM32 Development Board"><img src="http://farm4.staticflickr.com/3491/3920427009_ae43781aee.jpg" alt="STM32 Development Board" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3920427009/" title="STM32 Development Board"><img src="https://farm4.staticflickr.com/3491/3920427009_ae43781aee.jpg" alt="STM32 Development Board" /></a>
 
 So far I've used one of these boards for Robot3 (an upcoming post) and
 plan to use the second to start prototypes with my quadcopter UAV.
@@ -29,7 +29,7 @@ They're pretty useful, uploading code to them is quick and easy with the
 bootloader, and having that many peripherals available and capable of
 running at pretty high speeds makes these boards handy to have around.
 
-<a href="http://www.flickr.com/photos/randomskk/3920430553/" title="STM32 Development Board"><img src="http://farm4.staticflickr.com/3447/3920430553_fe63d54cc8.jpg" alt="STM32 Development Board" /></a>
+<a href="http://www.flickr.com/photos/randomskk/3920430553/" title="STM32 Development Board"><img src="https://farm4.staticflickr.com/3447/3920430553_fe63d54cc8.jpg" alt="STM32 Development Board" /></a>
 
 Eagle files and a PNG [here][].
 

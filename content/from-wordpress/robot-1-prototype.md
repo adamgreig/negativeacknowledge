@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Arduino, Electronics, Robotics
 Slug: robot-1-prototype
 
-![Robot One Prototype One](http://static.flickr.com/3109/2580999463_10404b0421.jpg)
+![Robot One Prototype One](https://static.flickr.com/3109/2580999463_10404b0421.jpg)
 
 This is my first prototype robot. A friend and I got together and he
 taped stuff to cardboard while I connected wires up and then we wrote a
@@ -19,9 +19,9 @@ non-linear, typically).
 The drive motors are the two servos I modified for continuous rotation,
 with an Arduino+Protoshield to control it.
 
-![Robot One Prototype One](http://static.flickr.com/3077/2580997781_15178f74ea.jpg)
+![Robot One Prototype One](https://static.flickr.com/3077/2580997781_15178f74ea.jpg)
 
-![Robot One Prototype One](http://static.flickr.com/3260/2580994365_5f3d32f917.jpg)
+![Robot One Prototype One](https://static.flickr.com/3260/2580994365_5f3d32f917.jpg)
 
 This prototype has since been disassembled and work started on the new
 version, with a vacuum formed plastic chassis and normal geared motors

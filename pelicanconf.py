@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 
 # Plugins
 MARKUP = ('md', 'ipynb')
-PLUGIN_PATH = 'plugins'
+PLUGIN_PATHS = ['plugins/']
 PLUGINS = ['ipythonnb']
 
 # Development settings, overriden by deployconf.py

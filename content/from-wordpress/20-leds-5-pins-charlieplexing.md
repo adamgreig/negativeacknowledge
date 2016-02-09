@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: AVR, Electronics
 Slug: 20-leds-5-pins-charlieplexing
 
-![almost works!](http://static.flickr.com/2414/2435299668_3eb69d7bf5.jpg)
+![almost works!](https://static.flickr.com/2414/2435299668_3eb69d7bf5.jpg)
 
 I recently ordered 100 blue LEDs from eBay for a measly £1 (plus p&amp;p of
 something like £3). To my surprise, they are both bright and all
@@ -24,7 +24,7 @@ This is a pretty neat use of tiny amounts of IO pins.
 
 Unfortunately the back of the thing looks like this:
 
-![finished - there are two shorts somewhere. where? no idea](http://static.flickr.com/2114/2432745328_d7e6117b05.jpg)
+![finished - there are two shorts somewhere. where? no idea](https://static.flickr.com/2114/2432745328_d7e6117b05.jpg)
 
 and I never quite got the courage to get the last few working.
 

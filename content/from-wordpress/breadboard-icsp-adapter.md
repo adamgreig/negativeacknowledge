@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Electronics, AVR
 Slug: breadboard-icsp-adapter
 
-![Breadboard ICSP adaptor](http://static.flickr.com/2304/2355712642_8deabaf564.jpg)
+![Breadboard ICSP adaptor](https://static.flickr.com/2304/2355712642_8deabaf564.jpg)
 
 At the same time I etched the LED Firefly prototypes, I did some
 breadboard ICSP adapters. I've been working with ATtiny13s a lot
@@ -19,7 +19,7 @@ reduces ICSP connections down to just one jump wire.
 
 It works really nicely from my quick experiments, which is nice!
 
-![Breadboard ICSP adaptor](http://static.flickr.com/3200/2355716920_6a3f190f9e.jpg)
+![Breadboard ICSP adaptor](https://static.flickr.com/3200/2355716920_6a3f190f9e.jpg)
 
 
 [Flickr](http://www.flickr.com/photos/7320302@N07/2355716920/)

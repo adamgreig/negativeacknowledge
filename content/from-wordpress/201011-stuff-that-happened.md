@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Electronics
 Slug: 201011-stuff-that-happened
 
-![Firefly](http://farm5.staticflickr.com/4086/4835953772_d24507d3d0.jpg)
+![Firefly](https://farm5.staticflickr.com/4086/4835953772_d24507d3d0.jpg)
 
 So it's been over a year since I posted about that NERF turret! I've not
 been totally idle since but nothing's really finished to a high enough
@@ -22,7 +22,7 @@ around to writing much code for it so while we got it pinging, that's
 about it for r1. We'll probably do an r2 fairly soon with easier
 hardware and try to get something working.
 
-<a href="http://www.flickr.com/photos/randomskk/4869361557/" title="SelWX r1 Soldered"><img src="http://farm5.staticflickr.com/4118/4869361557_f683348c8b.jpg" alt="SelWX r1 Soldered" /></a>
+<a href="http://www.flickr.com/photos/randomskk/4869361557/" title="SelWX r1 Soldered"><img src="https://farm5.staticflickr.com/4118/4869361557_f683348c8b.jpg" alt="SelWX r1 Soldered" /></a>
 
 **October 2010:** I wanted to make my long coat light up, so I sewed 20
 lillypad LEDs into it. It worked, but only very briefly before my power
@@ -34,7 +34,7 @@ but it didn't work. We didn't have much time to investigate why. I also
 made a nightlight out of epoxy and coloured dyes and LEDs and all that,
 but sadly don't have any photos.
 
-<a href="http://www.flickr.com/photos/randomskk/5311110792/" title="FM bug"><img src="http://farm6.staticflickr.com/5282/5311110792_98f9b5a354.jpg" alt="FM bug" /></a>
+<a href="http://www.flickr.com/photos/randomskk/5311110792/" title="FM bug"><img src="https://farm6.staticflickr.com/5282/5311110792_98f9b5a354.jpg" alt="FM bug" /></a>
 
 **May 2011:** I took apart this NERF gun to try and mod it to be fully
 electronically automatic, with a micro stepper motor mounted inside the
@@ -44,13 +44,13 @@ amount of force was required to actuate, so nothing really came of this
 (but now I have some steppers, solenoids and drivers in my spare
 parts...)
 
-<a href="http://www.flickr.com/photos/randomskk/5697772938/" title="Nerf Barricade"><img src="http://farm6.staticflickr.com/5190/5697772938_a731673172.jpg" alt="Nerf Barricade" /></a>
+<a href="http://www.flickr.com/photos/randomskk/5697772938/" title="Nerf Barricade"><img src="https://farm6.staticflickr.com/5190/5697772938_a731673172.jpg" alt="Nerf Barricade" /></a>
 
 **June 2011:** I made this breakout board for an ADF7012 radio to test
 out some new telemetry ideas for CU Spaceflight. It's not working yet,
 but hopefully soon...
 
-<a href="http://www.flickr.com/photos/randomskk/5909357111/" title="ADF7012 breakout board"><img src="http://farm7.staticflickr.com/6010/5909357111_06993f79f5.jpg" alt="ADF7012 breakout board" /></a>
+<a href="http://www.flickr.com/photos/randomskk/5909357111/" title="ADF7012 breakout board"><img src="https://farm7.staticflickr.com/6010/5909357111_06993f79f5.jpg" alt="ADF7012 breakout board" /></a>
 
 Anyway maybe now I'll do some more hardware stuff and actually blog
 about it in time!

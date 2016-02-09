@@ -36,6 +36,6 @@ be fully set to make them at home!
 
 [Flickr](http://flickr.com/photos/randomskk/2293865929)
 
-  [Dremel]: http://farm4.static.flickr.com/3109/2293860897_5876cd5eab.jpg
-  [1]: http://farm3.static.flickr.com/2022/2293863401_0d413fa33f.jpg
-  [2]: http://farm3.static.flickr.com/2211/2293865929_14338ddfca.jpg
+  [Dremel]: https://farm4.static.flickr.com/3109/2293860897_5876cd5eab.jpg
+  [1]: https://farm3.static.flickr.com/2022/2293863401_0d413fa33f.jpg
+  [2]: https://farm3.static.flickr.com/2211/2293865929_14338ddfca.jpg

@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Meta
 Slug: hello-world
 
-![Hello, World!](http://farm3.static.flickr.com/2390/2284456054_e67af94b61.jpg)
+![Hello, World!](https://farm3.static.flickr.com/2390/2284456054_e67af94b61.jpg)
 
 Hey everyone,
 

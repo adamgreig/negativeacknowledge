@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Electronics, Robotics, ARM
 Slug: robot2-an-arm-based-colour-tracking-robot
 
-![Robot 2](http://farm4.static.flickr.com/3059/3057594794_8747e908e7.jpg)
+![Robot 2](https://farm4.static.flickr.com/3059/3057594794_8747e908e7.jpg)
 
 I've finally got around to writing up this project! What you see above is a
 small robot with a gooey ARM Cortex-M3 STM32 core, a teensy [embedded camera
@@ -25,10 +25,10 @@ moving towards it.
 ([YouTube video](http://www.youtube.com/watch?v=zb17uQtSYWk))
 
 
-![PCBs from Golden Phoenix](http://farm4.static.flickr.com/3009/2925079196_b1c882cbf0.jpg)
-![Reflow Soldering ARM Board](http://farm4.static.flickr.com/3037/2960356040_b3345167d6.jpg)
-![Logic the Logic Analyser](http://farm4.static.flickr.com/3150/3028480876_384c124275.jpg)
-![Robot2 Camera+LCD: Working at last!](http://farm4.static.flickr.com/3133/3088363676_d0d36e70a4.jpg)
+![PCBs from Golden Phoenix](https://farm4.static.flickr.com/3009/2925079196_b1c882cbf0.jpg)
+![Reflow Soldering ARM Board](https://farm4.static.flickr.com/3037/2960356040_b3345167d6.jpg)
+![Logic the Logic Analyser](https://farm4.static.flickr.com/3150/3028480876_384c124275.jpg)
+![Robot2 Camera+LCD: Working at last!](https://farm4.static.flickr.com/3133/3088363676_d0d36e70a4.jpg)
 
 This project was actually a final year school project, so I didn't even
 have to pay for it, which is good - the PCBs were ordered as a panel
@@ -45,8 +45,8 @@ actually be using, and getting one on a premade PCB seemed like a
 pointless expense (how I regret thinking that...), so I made a simple
 breakout board and soldered one on. By hand.
 
-![ARM Breakout Boards](http://farm4.static.flickr.com/3118/2637802744_3a1f8a57f6.jpg)
-![ARM STM32 - hello world, finally!](http://farm4.static.flickr.com/3112/2809589246_45cf090030.jpg)
+![ARM Breakout Boards](https://farm4.static.flickr.com/3118/2637802744_3a1f8a57f6.jpg)
+![ARM STM32 - hello world, finally!](https://farm4.static.flickr.com/3112/2809589246_45cf090030.jpg)
 
 Incredibly, this actually worked. It took a long time to get openocd
 installed and talking to the programmer (an [ARM-USB-TINY](http://www.sparkfun.com/commerce/product_info.php?products_id=8278) from
@@ -56,7 +56,7 @@ code instead of just uploading a sample hex file. Many hours of
 struggling later I had a working Makefile using the [Codesourcery GCC](http://www.codesourcery.com/sgpp/lite/arm)
 port. It was time for a more complicated Hello, World:
 
-![ARM STM32 F103 and OLED: Finally!](http://farm4.static.flickr.com/3025/2837428121_2597592716.jpg)
+![ARM STM32 F103 and OLED: Finally!](https://farm4.static.flickr.com/3025/2837428121_2597592716.jpg)
 
 With this out of the way, I moved on to:
 
@@ -69,7 +69,7 @@ designs for the main board, the camera, the OLED carrier and the SD card
 carrier. This is where I made a few crucial and stupid mistakes, like
 wiring the ARM's analog ground to Vcc and the analogue supply to GND:
 
-![Dirty Hack](http://farm4.staticflickr.com/3386/3226059874_a014ee1098.jpg)
+![Dirty Hack](https://farm4.staticflickr.com/3386/3226059874_a014ee1098.jpg)
 
 The PCB design took a few days but eventually I'd made up a design for
 each of the boards, and panelised these with [GerbMerge](http://claymore.engineer.gvsu.edu/~steriana/Python/gerbmerge/) to be sent
@@ -91,7 +91,7 @@ worked really well - I got some solder paste, put a little blob on each
 pad, placed the components and then shoved it under the grill on full
 heat until it reflowed.
 
-![Reflow Soldering PCBs](http://farm4.static.flickr.com/3142/2926577255_1861083f38.jpg)
+![Reflow Soldering PCBs](https://farm4.static.flickr.com/3142/2926577255_1861083f38.jpg)
 
 In the end I used up every one of the control boards until I finally got
 it right at the end - there were a few problems with the reflow
@@ -134,7 +134,7 @@ in the camera's field of view. This technique worked pretty well.
 I added a simple menu on the OLED - you can toggle turning, driving and
 lights.
 
-![Robot2 Menu System](http://farm4.static.flickr.com/3594/3517173884_eb6d888ca7.jpg)
+![Robot2 Menu System](https://farm4.static.flickr.com/3594/3517173884_eb6d888ca7.jpg)
 
 The nav switch is a handy little [SparkFun switch](http://www.sparkfun.com/commerce/product_info.php?products_id=8184) that works really
 well for this application.

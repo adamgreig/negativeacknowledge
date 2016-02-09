@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: Arduino, Electronics
 Slug: automated-nerf-turret
 
-![Automatic NERF EBF-25 Turret](http://farm5.static.flickr.com/4019/4711476211_5334eb34fe.jpg)
+![Automatic NERF EBF-25 Turret](https://farm5.static.flickr.com/4019/4711476211_5334eb34fe.jpg)
 
 So, exams are finally over and I've had time to get playing with
 something again. Some friends bought me a NERF Vulcan for my birthday
@@ -13,7 +13,7 @@ running off a 3-cell lipo pack, which about doubles the rate of fire,
 and has three ammo belts chained together to give 74 rounds in one
 continuous burst of fire.
 
-![Automatic NERF EBF-25 Turret](http://farm5.static.flickr.com/4011/4712116676_347aac154d.jpg)
+![Automatic NERF EBF-25 Turret](https://farm5.static.flickr.com/4011/4712116676_347aac154d.jpg)
 
 I then hooked up an Arduino and servo motor to a series of cabletied
 pencils, which can pull the trigger on command. The Arduino and a USB
@@ -21,7 +21,7 @@ webcam then connect to a laptop which is running motion and a small
 python script which interfaces to the Arduino and plays sound clips from
 Portal turrets when motion is detected/no longer detected.
 
-![Automatic NERF EBF-25 Turret](http://farm2.static.flickr.com/1275/4711478303_9c9dd1bc7b.jpg)
+![Automatic NERF EBF-25 Turret](https://farm2.static.flickr.com/1275/4711478303_9c9dd1bc7b.jpg)
 
 The whole thing works very nicely, shooting down anyone who walks into
 my room with a rapid burst of darts, and terrifying them with the portal

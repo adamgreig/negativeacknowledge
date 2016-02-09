@@ -4,7 +4,7 @@ Author: Adam Greig
 Tags: AVR, Electronics
 Slug: mothers-day-08-a-light-up-box
 
-![Making PCBs at home, Attempt 2: Done!](http://farm3.static.flickr.com/2209/2304333959_021857e71d.jpg)
+![Making PCBs at home, Attempt 2: Done!](https://farm3.static.flickr.com/2209/2304333959_021857e71d.jpg)
 
 Mother's Day was coming up and I'd just got the hang of making PCBs at
 home, along with a new Dremel that could cut and drill them.  
@@ -175,24 +175,24 @@ I hope you enjoyed reading through the project! I've attached the Eagle
 files below if anyone wants to try printing one, although since Mother's
 Day has passed I'd suggest changing the message :p
 
-  [Making PCBs at home, Attempt 2: Done!]: http://farm3.static.flickr.com/2209/2304333959_021857e71d.jpg
+  [Making PCBs at home, Attempt 2: Done!]: https://farm3.static.flickr.com/2209/2304333959_021857e71d.jpg
   [here]: http://www.instructables.com/id/UVIL-Backlit-Blacklight-Nightlight-or-SteamPunk-
-  [Making PCBs at home, Step 1: Design]: http://farm4.static.flickr.com/3256/2299143684_490e63f3bb.jpg
-  [Making PCBs at home, Step 2: Print]: http://farm4.static.flickr.com/3014/2298349919_b49f21266e.jpg
-  [Making PCBs at home, Step 3: Get the iron on]: http://farm4.static.flickr.com/3277/2298351685_1d0e9cfd7f.jpg
-  [Making PCBs at home, Step 4: Clean the PCB]: http://farm4.static.flickr.com/3083/2298354343_6249112815.jpg
-  [Making PCBs at home, Step 5: Cut out print]: http://farm4.static.flickr.com/3238/2298357307_46acd42ff1.jpg
-  [Making PCBs at home, Step 6: Stick print to PCB]: http://farm4.static.flickr.com/3287/2299155116_95965583a8.jpg
-  [Making PCBs at home, Step 7: Iron it for 3-5 min]: http://farm4.static.flickr.com/3101/2298361473_c7f7795a90.jpg
-  [Making PCBs at home, Step 9: Nor were the other 6.]: http://farm4.static.flickr.com/3232/2299161968_f6ee093322.jpg
-  [Making PCBs at home, Attempt 2: Transparencies]: http://farm3.static.flickr.com/2017/2305058162_191fe63821.jpg
-  [Making PCBs at home, Attempt 2: Stick it down]: http://farm4.static.flickr.com/3191/2304263567_2df3d6c2c6.jpg
-  [Making PCBs at home, Attempt 2: All ironed.]: http://farm3.static.flickr.com/2417/2304270631_c45364370a.jpg
-  [Making PCBs at home, Attempt 2: Cut with a Dremel]: http://farm4.static.flickr.com/3042/2304274529_3026224509.jpg
-  [Making PCBs at home, Attempt 2: Etched in Ferric Chloride]: http://farm3.static.flickr.com/2358/2304278037_16a940c344.jpg
-  [Making PCBs at home, Attempt 2: Fully etched]: http://farm3.static.flickr.com/2107/2304281841_80cb02ffe7.jpg
-  [Making PCBs at home, Attempt 2: Acetone dissolves the toner]: http://farm3.static.flickr.com/2089/2304285407_dfea001636.jpg
-  [Making PCBs at home, Attempt 2: Toner removed and holes drilled with Dremel]: http://farm4.static.flickr.com/3092/2304288909_44234a1879.jpg
-  [Making PCBs at home, Attempt 2: All holes drilled]: http://farm4.static.flickr.com/3269/2305091166_c1cb801cca.jpg
-  [Making PCBs at home, Attempt 2: Parts soldered]: http://farm3.static.flickr.com/2402/2305097638_dda24bb51e.jpg
-  [Making PCBs at home, Attempt 2: Stuck together (nb: used two standoffs in the end)]: http://farm3.static.flickr.com/2057/2305122182_773446458f.jpg
+  [Making PCBs at home, Step 1: Design]: https://farm4.static.flickr.com/3256/2299143684_490e63f3bb.jpg
+  [Making PCBs at home, Step 2: Print]: https://farm4.static.flickr.com/3014/2298349919_b49f21266e.jpg
+  [Making PCBs at home, Step 3: Get the iron on]: https://farm4.static.flickr.com/3277/2298351685_1d0e9cfd7f.jpg
+  [Making PCBs at home, Step 4: Clean the PCB]: https://farm4.static.flickr.com/3083/2298354343_6249112815.jpg
+  [Making PCBs at home, Step 5: Cut out print]: https://farm4.static.flickr.com/3238/2298357307_46acd42ff1.jpg
+  [Making PCBs at home, Step 6: Stick print to PCB]: https://farm4.static.flickr.com/3287/2299155116_95965583a8.jpg
+  [Making PCBs at home, Step 7: Iron it for 3-5 min]: https://farm4.static.flickr.com/3101/2298361473_c7f7795a90.jpg
+  [Making PCBs at home, Step 9: Nor were the other 6.]: https://farm4.static.flickr.com/3232/2299161968_f6ee093322.jpg
+  [Making PCBs at home, Attempt 2: Transparencies]: https://farm3.static.flickr.com/2017/2305058162_191fe63821.jpg
+  [Making PCBs at home, Attempt 2: Stick it down]: https://farm4.static.flickr.com/3191/2304263567_2df3d6c2c6.jpg
+  [Making PCBs at home, Attempt 2: All ironed.]: https://farm3.static.flickr.com/2417/2304270631_c45364370a.jpg
+  [Making PCBs at home, Attempt 2: Cut with a Dremel]: https://farm4.static.flickr.com/3042/2304274529_3026224509.jpg
+  [Making PCBs at home, Attempt 2: Etched in Ferric Chloride]: https://farm3.static.flickr.com/2358/2304278037_16a940c344.jpg
+  [Making PCBs at home, Attempt 2: Fully etched]: https://farm3.static.flickr.com/2107/2304281841_80cb02ffe7.jpg
+  [Making PCBs at home, Attempt 2: Acetone dissolves the toner]: https://farm3.static.flickr.com/2089/2304285407_dfea001636.jpg
+  [Making PCBs at home, Attempt 2: Toner removed and holes drilled with Dremel]: https://farm4.static.flickr.com/3092/2304288909_44234a1879.jpg
+  [Making PCBs at home, Attempt 2: All holes drilled]: https://farm4.static.flickr.com/3269/2305091166_c1cb801cca.jpg
+  [Making PCBs at home, Attempt 2: Parts soldered]: https://farm3.static.flickr.com/2402/2305097638_dda24bb51e.jpg
+  [Making PCBs at home, Attempt 2: Stuck together (nb: used two standoffs in the end)]: https://farm3.static.flickr.com/2057/2305122182_773446458f.jpg

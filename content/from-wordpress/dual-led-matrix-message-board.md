@@ -6,7 +6,7 @@ Slug: dual-led-matrix-message-board
 
 Well, the second matrix for my [LED message board][] arrived today!
 
-![Dual LED Matrix Message Board](http://static.flickr.com/2243/2492602720_6b8e9090cc.jpg)
+![Dual LED Matrix Message Board](https://static.flickr.com/2243/2492602720_6b8e9090cc.jpg)
 
 It took a little change in the code to get it working with two matrices,
 but now it rocks!

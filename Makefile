@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=paladin
+SSH_HOST=druid
 SSH_PORT=22
 SSH_USER=adam
-SSH_TARGET_DIR=/home/www/negativeacknowledge.com/public_html/
+SSH_TARGET_DIR=/srv/www/negativeacknowledge.com/
 
 S3_BUCKET=my_s3_bucket
 
