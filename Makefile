@@ -12,7 +12,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=druid
+SSH_HOST=ardent
 SSH_PORT=22
 SSH_USER=adam
 SSH_TARGET_DIR=/srv/www/negativeacknowledge.com/
